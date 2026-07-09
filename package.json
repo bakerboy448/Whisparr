@@ -81,7 +81,7 @@
     "reselect": "4.0.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.8",
+    "@babel/core": "7.29.6",
     "@babel/eslint-parser": "7.17.0",
     "@babel/plugin-proposal-class-properties": "7.16.7",
     "@babel/plugin-proposal-decorators": "7.17.8",
@@ -111,9 +111,9 @@
     "file-loader": "6.2.0",
     "filemanager-webpack-plugin": "5.0.0",
     "html-webpack-plugin": "5.3.1",
-    "loader-utils": "^2.0.4",
+    "loader-utils": "^3.2.1",
     "mini-css-extract-plugin": "1.5.0",
-    "postcss": "8.5.10",
+    "postcss": "8.5.11",
     "postcss-color-function": "4.1.0",
     "postcss-loader": "6.2.0",
     "postcss-mixins": "8.1.0",
